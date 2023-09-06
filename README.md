@@ -7,4 +7,5 @@ I used this to look for some bug when populating cells with a formula containing
 
 ## Development server
 
+Before running the first time run `npm install` to install all dependencies.
 Run `npm run build` followed by `npm run start-dev` for a dev server. Navigate to `http://127.0.0.1:5000/`.
